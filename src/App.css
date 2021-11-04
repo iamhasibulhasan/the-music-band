@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.shop-container{
+  /* background-image: url('../src/images/bg.jpg');
+  background-size: cover;                      
+  background-repeat: no-repeat; */
+  color: white;
+  background-image: url("../src/images/bg.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+  z-index: -999;
+}

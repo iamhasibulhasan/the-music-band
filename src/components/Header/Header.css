@@ -1,0 +1,25 @@
+.header-container{
+    background-color: white;
+}
+.header{
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.logo img{
+    width: 50%;
+}
+.menu{
+    
+}
+.menu li{
+    display: inline;
+}
+.menu li a{
+    margin: 15px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    text-transform: uppercase;
+}
