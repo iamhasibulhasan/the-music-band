@@ -35,6 +35,7 @@ const Shop = () => {
             <div>
                 {
                     <Cart
+                        ongoing={concerts.length}
                         cart={cart}
                     ></Cart>
                 }
